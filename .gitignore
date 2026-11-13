@@ -1,5 +1,5 @@
-node_modules/
-.wrangler/
-.dev.vars
+/target
 .walkthroughs/
 *.log
+.env
+.env.*
